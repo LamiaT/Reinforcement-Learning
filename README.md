@@ -1,2 +1,2 @@
-# Reinforcemant-Learning
-Reinforcemant Learning.
+# Reinforcement-Learning
+Reinforcement Learning.
